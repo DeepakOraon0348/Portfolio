@@ -20,6 +20,12 @@ export default function Portfolio() {
       desc: 'AI-enabled summarization and task planning tool that extracts action items and auto-generates tasks to help users manage notes and workflows.',
       tech: ['React','Express.js','MongoDB','JWT','Axios','Cors', 'Node.js', 'AI APIs'],
       link: 'https://ai-summrizer-fronted.vercel.app/'
+    },
+    {
+      title: 'Slot Swapper – Smart Slot Exchange Platform',
+      desc: 'Slot Swapper is a full-stack web app that streamlines scheduling and slot management. Users can book, share, and swap time slots, manage their dashboard, explore available slots in the marketplace, and handle swap requests seamlessly — all within a modern, responsive interface that ensures smooth coordination between users.',
+      tech: ['React.js','React Router','Tailwind CSS','Node.js','Express.js','Cors', 'MongoDB', 'Mongoose','JWT','Bcrypt.js','Axios'],
+      link: 'https://slot-swapper-frontend-omega.vercel.app/auth'
     }
   ]
 
