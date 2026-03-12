@@ -38,7 +38,7 @@ export default function Portfolio() {
     'Render Deployment',
     'Environment Configuration'],
       link: 'https://clients-list-frontend.vercel.app/'
-    }
+    },
     {
       title: 'E-Commerce Product Interface – React Product Listing App',
       desc: 'E-Commerce Product Interface is a responsive frontend application built with React that simulates a modern online shopping experience. The app displays products with infinite scrolling, allows users to view detailed product pages, and supports cart functionality using localStorage. It focuses on smooth navigation, efficient data rendering, and clean component-based architecture.',
