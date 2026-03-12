@@ -26,6 +26,31 @@ export default function Portfolio() {
       desc: 'Slot Swapper is a full-stack web app that streamlines scheduling and slot management. Users can book, share, and swap time slots, manage their dashboard, explore available slots in the marketplace, and handle swap requests seamlessly — all within a modern, responsive interface that ensures smooth coordination between users.',
       tech: ['React.js','React Router','Tailwind CSS','Node.js','Express.js','Cors', 'MongoDB', 'Mongoose','JWT','Bcrypt.js','Axios'],
       link: 'https://slot-swapper-frontend-omega.vercel.app/auth'
+    },
+    {
+      title: 'Client Management System',
+      desc: 'Client Management System is a production-ready backend application designed to manage client data efficiently with high performance and scalable architecture. The system provides secure RESTful APIs for managing client records with optimized performance using Redis caching and a cloud-hosted PostgreSQL database. It follows a clean architecture pattern to ensure maintainability, scalability, and real-world backend development practices.',
+      tech: ['Node.js',
+    'Express.js',
+    'PostgreSQL (Neon Cloud)',
+    'Redis Cloud',
+    'REST API',
+    'Render Deployment',
+    'Environment Configuration'],
+      link: 'https://clients-list-frontend.vercel.app/'
+    }
+    {
+      title: 'E-Commerce Product Interface – React Product Listing App',
+      desc: 'E-Commerce Product Interface is a responsive frontend application built with React that simulates a modern online shopping experience. The app displays products with infinite scrolling, allows users to view detailed product pages, and supports cart functionality using localStorage. It focuses on smooth navigation, efficient data rendering, and clean component-based architecture.',
+      tech: [ 'React.js',
+    'React Router',
+    'JavaScript (ES6+)',
+    'Tailwind CSS',
+    'DaisyUI',
+    'Intersection Observer API',
+    'REST API',
+    ],
+      link: 'https://dummy-ecommerce-fawn.vercel.app/'
     }
   ]
 
